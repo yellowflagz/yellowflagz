@@ -1,4 +1,4 @@
-### What's up, I'm Alberto - aka [Yellow][website] 👋
+### What's up, I'm [Alberto][linkedin] - aka [Yellow][youtube] 👋
 
 
 ## I'm a Spanish Junior Sysadmin looking for improving my developer and system administrator skills!
@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="yellowflag.me | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Yellowflag | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="yellowflag.me | Blog" width="22px" src="https://camo.githubusercontent.com/b28f335497c23c0f7700fe77a99fe45173da9d64c84b9a7cf81afdc0aad38819/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f67686f73742e737667" />][website]
+[<img align="left" alt="Yellowflag | YouTube" width="22px" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" />][youtube]
 [<img align="left" alt="Yellowflag | Twitter" width="22px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />][twitter]
-[<img align="left" alt="Yellow's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Yellow's | LinkedIn" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
 
 <br />
 
