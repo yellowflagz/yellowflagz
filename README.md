@@ -1,7 +1,7 @@
-### What's up, I'm [Alberto][linkedin] - aka [Yellow][youtube] 👋
+## What's up, I'm [Alberto][linkedin] - aka [Yellow][youtube] 👋
 
 
-## I'm a Spanish Junior Sysadmin looking for improving my developer and system administrator skills!
+## I'm a Spanish Junior Sysadmin looking for improving my developer and system administration skills!
 
 - 🔭 I just launched my first blog: [The Yellowflag][website]
 - 🌱 I’m currently learning scripting with Python, Cloud and much more!
