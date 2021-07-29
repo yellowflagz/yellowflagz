@@ -1,13 +1,13 @@
 ### What's up, I'm Alberto - aka [Yellow][website] 👋
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Spanish Junior Sysadmin looking for improving my developer and system administrator skills!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I just launched my first blog: [The Yellowflag][website]
+- 🌱 I’m currently learning scripting with Python, Cloud and much more!
+- 👯 I’m looking to meet amazing people in the IT field
+- 🥅 2021 Goals: Gaining more knowledge and beign more productive!
+- 🎮 Fun fact: I love videogames (Specially MMOs)
 
 ### Connect with me:
 
