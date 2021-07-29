@@ -30,7 +30,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/linux-tux.svg" />
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/amido/azure-vector-icons/master/renders/windows-azure.png" />
-<img align="left" alt="Docker" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg" />
+<img align="left" alt="Docker" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg" />
 
 
 <br />
