@@ -1,7 +1,7 @@
 ## What's up, I'm [Alberto][linkedin] - aka [Yellow][youtube] 👋
 
 
-## I'm a Spanish Junior Sysadmin looking for improving my developer and system administration skills!
+## I'm a 22 year old Spanish Junior Sysadmin looking for improving my developer and system administration skills!
 
 - 🔭 I just launched my first blog: [The Yellowflag][website]
 - 🌱 I’m currently learning scripting with Python, Cloud Computing and much more!
