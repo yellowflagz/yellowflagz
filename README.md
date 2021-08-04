@@ -41,7 +41,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Creando un Menú en Linux con Bash Scripting](https://www.youtube.com/watch?v=WwGH6Y8BGU4)
+- [Creando un Menú en Linux con Bash](https://www.youtube.com/watch?v=WwGH6Y8BGU4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCOgJ2yPWp83jN3en6-pZ56w)
