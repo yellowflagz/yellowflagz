@@ -1,4 +1,4 @@
-## What's up, I'm [Alberto][linkedin] - aka [Yellow][youtube] 👋
+## What's up, I'm [Alberto][CV] - aka [Yellow][youtube] 👋
 
 
 ## I'm a 22 year old Spanish Junior Sysadmin looking for improving my developer and system administration skills!
@@ -64,3 +64,4 @@
 [twitter]: https://twitter.com/yellowflagz
 [youtube]: https://www.youtube.com/channel/UCOgJ2yPWp83jN3en6-pZ56w
 [linkedin]: https://www.linkedin.com/in/alberto-cendan-325527218/
+[CV]: https://cv.yellowflag.me/
