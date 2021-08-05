@@ -63,5 +63,5 @@
 [website]: https://yellowflag.me
 [twitter]: https://twitter.com/yellowflagz
 [youtube]: https://www.youtube.com/channel/UCOgJ2yPWp83jN3en6-pZ56w
-[linkedin]: https://www.linkedin.com/in/alberto-cendan-325527218/
+[linkedin]: https://www.linkedin.com/in/alberto-cendan/
 [CV]: https://cv.yellowflag.me/
