@@ -1,4 +1,4 @@
-## What's up, I'm [Alberto][CV] - aka [Yellow][youtube] 👋
+## What's up, I'm [Alberto][linkedin] - aka [Yellow][youtube] 👋
 
 
 ## I'm a 22 year old Spanish Junior Sysadmin looking for improving my developer and system administration skills!
