@@ -52,8 +52,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Creando un blog desde cero con Ghost en la nube (PARTE 1 - El Servidor)](https://blog.yellowflag.me/creando-blog-desde-cero-1/)
+- [Creando un blog desde cero con Ghost en la nube (PARTE 3 - Instalación de Ghost, MySQL y NGINX)](https://blog.yellowflag.me/creando-blog-desde-cero-3/)
 - [Creando un blog desde cero con Ghost en la nube (PARTE 2 - Configuración de Dominio)](https://blog.yellowflag.me/creando-blog-desde-cero-2/)
+- [Creando un blog desde cero con Ghost en la nube (PARTE 1 - El Servidor)](https://blog.yellowflag.me/creando-blog-desde-cero-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://yellowflag.me)
