@@ -42,6 +42,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Aprendiendo CIBERSEGURIDAD desde 0 🚀 - Análisis Forense [#2]](https://youtu.be/Z0dsdr3tnB0)
 - [PERMISOS en LINUX 🔐 | USUARIOS y GRUPOS 👥](https://www.youtube.com/watch?v=28FkQb1CwgI&t)
 - [Aprendiendo CIBERSEGURIDAD desde 0 🚀 - Criptografía [#1]](https://www.youtube.com/watch?v=FPBmJypCuhs)
 - [Creando un Menú en Linux con Bash](https://www.youtube.com/watch?v=WwGH6Y8BGU4)
