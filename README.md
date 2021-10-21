@@ -1,7 +1,7 @@
 ## What's up, I'm [Alberto][linkedin] - aka [Yellow][youtube] 👋
 
 
-## I'm a 22 year old Spanish guy looking for improving my developer skills!
+## I'm a 22 year old Spanish student looking for improving my developer skills!
 
 - 🔭 I just launched my first blog [The Yellowflag][website]
 - 🌱 I’m currently learning backend development with JavaScript, NodeJS and much more!
