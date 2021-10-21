@@ -31,10 +31,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" />
 <img align="left" alt="Docker" width="35px" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/linux-tux.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
 <br />
 <br />
 
