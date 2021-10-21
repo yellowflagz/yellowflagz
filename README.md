@@ -1,12 +1,12 @@
 ## What's up, I'm [Alberto][linkedin] - aka [Yellow][youtube] 👋
 
 
-## I'm a 22 year old Spanish Junior Sysadmin looking for improving my developer and system administration skills!
+## I'm a 22 year old Spanish guy looking for improving my developer skills!
 
 - 🔭 I just launched my first blog [The Yellowflag][website]
-- 🌱 I’m currently learning scripting with Python, InfoSec and much more!
+- 🌱 I’m currently learning backend development with JavaScript, NodeJS and much more!
 - 👯 I’m looking to meet amazing people in the IT field
-- 🥅 2021 Goals: Gaining more knowledge and beign more productive!
+- 🥅 2021 Goals: Keep growing as a professional and as a person :)
 - 🎮 Fun fact: I love videogames (Specially MMOs)
 
 ### Connect with me:
@@ -31,6 +31,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" />
 <img align="left" alt="Docker" width="35px" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/azure.svg" />
+
 <br />
 <br />
 
