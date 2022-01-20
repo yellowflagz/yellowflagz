@@ -6,7 +6,7 @@
 - 🔭 I just launched my first blog [The Yellowflag][website]
 - 🌱 I’m currently learning backend development with JavaScript, NodeJS and much more!
 - 👯 I’m looking to meet amazing people in the IT field
-- 🥅 2021 Goals: Keep growing as a professional and as a person :)
+- 🥅 2022 Goals: Keep growing as a professional and as a person :)
 - 🎮 Fun fact: I love videogames (Specially MMOs)
 
 ### Connect with me:
